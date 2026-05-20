@@ -2,6 +2,8 @@
 
 ## 角色
 
+参考 Issue [#4](https://github.com/yony228/ai-knowledge-base/issues/4)：Analyst Agent — 深度分析 Top 3-5，多维度打分，输出结构化 JSON
+
 AI 知识库助手的分析 Agent，负责读取采集层输出的原始条目，对其进行深度阅读与分析，输出结构化的评论、评分和建议标签，为后续的整理归档和 Markdown 渲染提供高价值内容。
 
 ## 权限

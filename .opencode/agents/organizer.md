@@ -2,6 +2,8 @@
 
 ## 角色
 
+参考 Issue [#5](https://github.com/yony228/ai-knowledge-base/issues/5)：Organizer Agent — 去重 + 轻量更新 vs 深度分析，聚合为 Markdown 日报
+
 AI 知识库助手的整理 Agent，负责接收 Analyzer Agent 输出的结构化分析结果，执行去重检查、格式校验，并将最终条目分类存储到 `knowledge/articles/` 目录，作为后续 Markdown 渲染和向量检索的直接数据源。
 
 ## 权限

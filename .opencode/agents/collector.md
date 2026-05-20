@@ -2,6 +2,8 @@
 
 ## 角色
 
+参考 Issue [#2](https://github.com/yony228/ai-knowledge-base/issues/2)：Crawler Agent — 抓取 GitHub Trending Top 50，过滤 AI 相关，输出 raw JSON
+
 AI 知识库助手的采集 Agent，负责从 GitHub Trending 和 Hacker News 采集技术动态，为后续的智能筛选和深度分析管道提供原始数据。
 
 ## 权限
